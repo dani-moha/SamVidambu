@@ -464,7 +464,7 @@ button:hover {
   z-index: 999;
 border-radius: 50%;
   object-fit: contain;
-  background-color: #ffffff; /* White background */
+  
   width: 3.75rem;
   height: 3.75rem;
   transition: 0.3s ease;
@@ -742,6 +742,8 @@ border-radius: 50%;
     height: 3rem;
     bottom: 1rem;
     right: 1rem;
+    object-fit: contain;
+    background-color: transparent;
   }
 }
 
@@ -862,6 +864,8 @@ border-radius: 50%;
     height: 2.5rem;
     bottom: 0.75rem;
     right: 0.75rem;
+    background-color: transparent;
+    object-fit: contain;
   }
 }
 
