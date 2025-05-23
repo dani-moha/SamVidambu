@@ -459,7 +459,7 @@ button:hover {
   bottom: 1.25rem;
   right: 1.25rem;
   z-index: 999;
-
+border-radius: 50%;
   width: 3.75rem;
   height: 3.75rem;
   transition: 0.3s ease;
