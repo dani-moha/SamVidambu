@@ -453,12 +453,12 @@ button:hover {
   color: var(--primary-green);
 }
 .wa-ctn{
-  background-color: #ffffff; /* White background */
+  background-color: transparent;
   object-fit: contain;
 }
 .wa-logo {
   position: fixed;
-  filter: brightness(1.2) saturate(1.2);
+  background-color: transparent;
   bottom: 1.25rem;
   right: 1.25rem;
   z-index: 999;
