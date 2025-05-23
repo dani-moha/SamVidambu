@@ -455,6 +455,7 @@ button:hover {
 
 .wa-logo {
   position: fixed;
+  filter: brightness(1.2) saturate(1.2);
   bottom: 1.25rem;
   right: 1.25rem;
   z-index: 999;
