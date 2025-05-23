@@ -452,7 +452,10 @@ button:hover {
 .sam-vid span {
   color: var(--primary-green);
 }
-
+.wa-ctn{
+  background-color: #ffffff; /* White background */
+  object-fit: contain;
+}
 .wa-logo {
   position: fixed;
   filter: brightness(1.2) saturate(1.2);
