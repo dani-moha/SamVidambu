@@ -468,9 +468,6 @@ button:hover {
   transform: scale(1.1);
 }
 
-.wa-ctn {
-  background-color: transparent;
-}
 
 .typed-text {
   color: var(--primary-green);
